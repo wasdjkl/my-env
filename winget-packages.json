@@ -1,0 +1,221 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2021-12-01T10:14:53.052-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Microsoft.VC++2005Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2005Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2008Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2008Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2010Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2010Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2012Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2012Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2013Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2013Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2015-2022Redist-x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VC++2015-2022Redist-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Edge"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsSDK"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.2"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "TortoiseGit.TortoiseGit"
+                },
+                {
+                    "PackageIdentifier": "TortoiseSVN.TortoiseSVN"
+                },
+                {
+                    "PackageIdentifier": "7zip.7zip"
+                },
+                {
+                    "PackageIdentifier": "Bandisoft.Bandizip"
+                },
+                {
+                    "PackageIdentifier": "voidtools.Everything"
+                },
+                {
+                    "PackageIdentifier": "Lexikos.AutoHotkey"
+                },
+                {
+                    "PackageIdentifier": "Tencent.WeChat"
+                },
+                {
+                    "PackageIdentifier": "Tencent.QQ"
+                },
+                {
+                    "PackageIdentifier": "bitvise.SSHClient"
+                },
+                {
+                    "PackageIdentifier": "Eugeny.Tabby"
+                },
+                {
+                    "PackageIdentifier": "Canonical.Ubuntu"
+                },
+                {
+                    "PackageIdentifier": "Docker.DockerDesktop"
+                },
+                {
+                    "PackageIdentifier": "Telerik.Fiddler"
+                },
+                {
+                    "PackageIdentifier": "Tencent.Foxmail"
+                },
+                {
+                    "PackageIdentifier": "GnuPG.GnuPG"
+                },
+                {
+                    "PackageIdentifier": "GnuPG.Gpg4win"
+                },
+                {
+                    "PackageIdentifier": "IrfanSkiljan.IrfanView"
+                },
+                {
+                    "PackageIdentifier": "Mozilla.Thunderbird"
+                },
+                {
+                    "PackageIdentifier": "Postbox.Postbox"
+                },
+                {
+                    "PackageIdentifier": "Postman.Postman"
+                },
+                {
+                    "PackageIdentifier": "SandboxiePlus.SandboxiePlus"
+                },
+                {
+                    "PackageIdentifier": "Ghisler.TotalCommander"
+                },
+                {
+                    "PackageIdentifier": "AntibodySoftware.WizTree"
+                },
+                {
+                    "PackageIdentifier": "qishibo.AnotherRedisDesktopManager"
+                },
+                {
+                    "PackageIdentifier": "Fndroid.ClashForWindows"
+                },
+                {
+                    "PackageIdentifier": "Obsidian.Obsidian"
+                },
+                {
+                    "PackageIdentifier": "utools.utools"
+                },
+                {
+                    "PackageIdentifier": "EuSoft.Eudic"
+                },
+                {
+                    "PackageIdentifier": "XunLei.xunlei"
+                },
+                {
+                    "PackageIdentifier": "Vysor.Vysor"
+                },
+                {
+                    "PackageIdentifier": "WinSCP.WinSCP"
+                },
+                {
+                    "PackageIdentifier": "Initex.Proxifier"
+                },
+                {
+                    "PackageIdentifier": "PuTTY.PuTTY"
+                },
+                {
+                    "PackageIdentifier": "cuiliang.quicker"
+                },
+                {
+                    "PackageIdentifier": "OpenJS.NodeJS"
+                },
+                {
+                    "PackageIdentifier": "VMware.WorkstationPro"
+                },
+                {
+                    "PackageIdentifier": "JohnMacFarlane.Pandoc"
+                },
+                {
+                    "PackageIdentifier": "GPSoftware.DirectoryOpus"
+                },
+                {
+                    "PackageIdentifier": "Iterate.Cyberduck"
+                },
+                {
+                    "PackageIdentifier": "RedHat.VirtViewer"
+                },
+                {
+                    "PackageIdentifier": "ScooterSoftware.BeyondCompare4"
+                },
+                {
+                    "PackageIdentifier": "Baidu.BaiduNetdisk"
+                },
+                {
+                    "PackageIdentifier": "Alibaba.aDrive"
+                },
+                {
+                    "PackageIdentifier": "QL-Win.QuickLook"
+                },
+                {
+                    "PackageIdentifier": "WireGuard.WireGuard"
+                },
+                {
+                    "PackageIdentifier": "Telegram.TelegramDesktop"
+                },
+                {
+                    "PackageIdentifier": "GitHub.GitHubDesktop"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ],
+    "WinGetVersion": "1.1.12986"
+}
